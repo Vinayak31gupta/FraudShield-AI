@@ -1,0 +1,3 @@
+com\fraudshield\controller\AuthControllerTest.class
+com\fraudshield\FraudShieldApplicationTests.class
+com\fraudshield\service\RuleBasedScoringEngineTest.class
