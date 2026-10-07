@@ -17,7 +17,7 @@
 //    You can also set the backend URL directly in the browser DevTools console:
 //    localStorage.setItem('fs_api_base', 'https://your-backend-url.com');
 // ============================================================================
-const BACKEND_API_BASE_URL = 'https://qewwp-2401-9640-1002-ac5a-2-2-2-2.run.pinggy-free.link'; // <-- Put your deployed Spring Boot URL here
+const BACKEND_API_BASE_URL = 'https://fraudshield-ai-4qim.onrender.com'; // <-- Permanent Render Backend URL
 
 const API_BASE = (() => {
     // 1. Check explicit production backend URL configuration first
